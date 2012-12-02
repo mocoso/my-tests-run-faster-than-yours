@@ -1,0 +1,13 @@
+{
+  "name": "My tests run faster than yours",
+  "description": "TBC",
+  "author": "Joel Chippindale",
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"title"},
+    {"section":"problem"},
+    {"section":"zeus"},
+    {"section":"alternative-solutions"},
+    {"section":"end"}
+  ]
+}
