@@ -1,1 +1,10 @@
 # Presentation about Zeus for LRUG Dec 2012
+
+See [the slides here](http://mocoso.github.com/my-tests-run-faster-than-yours/).
+
+Or to render them locally, clone this repo and then
+
+    $ bundle install
+    $ bundle exec showoff serve
+
+And visit http://localhost:9090
