@@ -1,6 +1,8 @@
 # Presentation about Zeus for LRUG Dec 2012
 
-See [the slides here](http://mocoso.github.com/my-tests-run-faster-than-yours/).
+See [the
+slides](http://mocoso.github.com/my-tests-run-faster-than-yours/) and
+[video](http://skillsmatter.com/podcast/home/my-tests-run-faster-than-your-tests).
 
 Or to render them locally, clone this repo and then
 
